@@ -1,0 +1,5 @@
+*.class
+dump.dat
+dump.dat.tmp
+.vscode/
+.DS_Store
